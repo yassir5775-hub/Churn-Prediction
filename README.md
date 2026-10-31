@@ -203,7 +203,7 @@ Pour plus de détails, consultez le notebook `notebooks/Model_Building.ipynb`.
 1. **Clonez le projet :**
 
    ```bash
-   git clone https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project.git
+   git clone https://github.com/yassir5757_hub/Churn-Prediction-and-Analysis-Project.git
    cd Churn-Prediction-and-Analysis-Project
    ```
 
@@ -291,13 +291,11 @@ Consultez `.github/workflows/` pour plus de détails.
 
 ## **👤 Auteur**
 
-### **S. Abraham Z. KOLOBOE**
+### **Yassir El Haj Tirari**
 
-- **Data Scientist | Ingénieur en Mathématiques et Modélisation**
+- **Data Scientist **
 - Passionné par les sciences de données et l'intelligence artificielle.
-- **Email** : [abklb27@gmail.com](mailto:abklb27@gmail.com)
-- **WhatsApp** : +229 91 83 84 21
-- **LinkedIn** : [Abraham KOLOBOE](https://www.linkedin.com/in/abraham-zacharie-koloboe-data-science-ia-generative-llms-machine-learning)
+- **Email** : [yassir5775@gmail.com](mailto:yassir5775@gmail.com)
 
 
 
